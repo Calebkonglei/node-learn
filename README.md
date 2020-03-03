@@ -1,3 +1,3 @@
 # node-learn
 From zero to hero.
-This project is build for learning some apis of node.
+This project is build for learning some apis of node.js.
